@@ -165,9 +165,6 @@ class ViewController: UIViewController {
             
         self.present(activity, animated: true, completion: nil)
         }
-    
-    
-    
 }
 
     //left and right padding
