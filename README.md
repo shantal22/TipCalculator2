@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [GIPHY] https://giphy.com/gifs/CxhfUvPWbtleXaAiYw
 
-## Notes
+## Challenges
 
   1. Gettting constraint to work for all phone sizes
   2. making animations smooth and the right timing
